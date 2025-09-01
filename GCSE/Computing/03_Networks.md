@@ -18,3 +18,6 @@
 - Performance issues (congestion)
 - Privacy risks.
 
+## Types of network (By scale)
+
+- PAN (Personal Area Network) - Very short range (e.g., 
