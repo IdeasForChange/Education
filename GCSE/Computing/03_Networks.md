@@ -5,7 +5,7 @@
 - A network is 2 or more computers connected to each other
 - They can be connected using either cable or wirelessly
 
-## Advantages of a network:
+### Advantages of a network:
 1. It allows communications with one another.
 2. It allows data to be shared.
 3. It allows peripherals to be shared (printers / scanners).
@@ -15,7 +15,7 @@
 7. It allows distributed processing
 8. Sharing helps reduce the cost of network as less hardware is needed
 
-## Disadvantages of networking
+### Disadvantages of networking
 1. Additional hardware is needed to setup network.
 2. Makes it expensive to setup and maintain.
 3. Large networks will need to be overseen by a network professional.
@@ -44,3 +44,10 @@
 4. The network connection may include cable (wired), satellite or telephone lines.
 5. The WAN has distributed ownership (i.e., it may be owned by different organisations)
 
+## Wired and wireless communication
+
+### Wired Network
+- Wired networks use either "copper network cables" or "fibre-optic cables" to hysically connect devices
+- This is usually found in office networks whee the computers (or devices) tend to in a fixed place.
+
+### 
