@@ -4,19 +4,13 @@
 **Definition**: Two or more computers/devices connected so they can share resources (files, printers, internet) and communicate. 
 
 ## Advantages & disadvantages of networking
-**Advantages:**
-- Resource sharing (files/printers)
-- Centralised backups
-- Remote access
-- Easier communication
-- Centralised security/policies.
 
-**Disadvantages:** 
-- Cost / maintenance
-- Security / Vulnerability to attack
-- Single points of failure (if poorly designed)
-- Performance issues (congestion)
-- Privacy risks.
+| Advantages |  Disadvantages | 
+| Resource sharing (files/printers) | Cost / maintenance |
+| Centralised backups | Cost / maintenance |
+| Remote access | Single points of failure (if poorly designed) | 
+| Easier communication  | Performance issues (congestion) |
+| Centralised security/policies. | Privacy risks. |
 
 ## Types of network (By scale)
 
