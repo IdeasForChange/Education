@@ -6,6 +6,7 @@
 ## Advantages & disadvantages of networking
 
 | Advantages |  Disadvantages | 
+|----------------|------------------|
 | Resource sharing (files/printers) | Cost / maintenance |
 | Centralised backups | Cost / maintenance |
 | Remote access | Single points of failure (if poorly designed) | 
