@@ -1,0 +1,32 @@
+**Key points to revise**
+
+**Star topology**
+
+- **Structure:** All devices connect to a central switch/hub.
+- **Advantages:**
+    - Easy to add/remove devices.
+    - If one device/cable fails, others are unaffected.
+    - High performance (switch sends data only to intended device).
+- **Disadvantages:**
+    - Central switch is a single point of failure.
+    - Requires more cable (more expensive in large networks).
+
+**Bus topology**
+
+- **Structure:** All devices share a single backbone cable.
+- **Advantages:**
+    - Cheap to install (less cabling).
+    - Suitable for small networks.
+- **Disadvantages:**
+    - Performance slows as more devices are added (data collisions).
+    - If backbone fails, entire network goes down.
+    - Data only travels in one direction at a time.
+
+**Mesh topology**
+
+- **Structure:** Devices connected to many others (full or partial mesh).
+- **Advantages:**
+    - High redundancy (if one route fails, others exist).
+    - Reliable — no single point of failure.
+- **Disadvantages:**
+    - Expensive and complex to install (lots of cabling/hardware).
